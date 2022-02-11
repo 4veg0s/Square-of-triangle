@@ -27,6 +27,7 @@ int main()
     double S = sqrt(p * (p - len_a) * (p - len_b) * (p - len_c));
 
     std::cout << "Площадь вашего треугольника равна " << S << "\n";
+    std::cout << "Всем общий";
 
     system("pause");
     return 0;
